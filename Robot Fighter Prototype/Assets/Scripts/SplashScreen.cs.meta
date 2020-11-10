@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 27402b21e977cec4189a1e9ffc3a74f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _splashScreenBackGround: {instanceID: 0}
+  - _splashScreenText: {instanceID: 0}
+  - _splashScreenMusic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
